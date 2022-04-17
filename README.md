@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Halibal | Instagram Project With Bootstrap](https://halibal.github.io/asian-cuisine/)
+- Live Site URL: [Halibal | Instagram Project With Bootstrap](https://halibal.github.io/instagram-project-with-bootstrap/)
 
 ## Built with
 
